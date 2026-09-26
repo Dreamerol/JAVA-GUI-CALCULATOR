@@ -189,8 +189,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
 
 
+
+<div align="left">
 
 
 
@@ -277,6 +280,10 @@ The purpose of this project is to demonstrate how to:
 
 
 
+
+</div>
+
+</div>
 
 
 
