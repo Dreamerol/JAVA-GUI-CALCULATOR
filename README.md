@@ -211,7 +211,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 ## 🚀 Overview
 
-This project is a **simple calculator application** built using Java with a **Graphical User Interface (GUI)**. It allows users to perform **basic arithmetic operations** through an interactive visual interface.
+This project is a **simple calculator application** built using Java with a **Graphical User Interface (GUI)**. <br> 
+It allows users to perform **basic arithmetic operations** through an interactive visual interface.
 
 
 ---
